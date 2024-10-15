@@ -4,6 +4,18 @@
     padding: 0;
 }
 
+:root {
+  font-size: 62.5%;
+  --hue: 235;
+  --background-header: hsla(218, 17%, 62%);
+  --background-header-title: hsl(275, 18%, 79%);
+  --background-page: hsl(233, 100%, 97%);
+  --background-img-text: hsl(312, 91%, 96%);
+  --text-page: hsla(274, 84%, 12%);
+  --text-card: hsl(232, 17%, 35%);
+  --textcolor-white: hsla(0, 0%, 100%);
+}
+
 header {
     display: flex;
     align-items: center;
